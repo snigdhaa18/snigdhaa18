@@ -1,9 +1,14 @@
 - 👋 Hi, I’m Snigdha Nayak
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning C programming
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in:
+     * Web development
+     * Game development
+     * Operating system
+- 🌱 I’m currently learning C language fundamentals
+- 😊 I’m excited to collaborate on open-source projects as a beginner C programmer.
+- 💞️ I’m looking forward to contribute to meaningful projects and learn from experienced developers.
+- 💗 If you are willing to guide and collaborate with a newcomer, let's work together.
 - 📫 Get in touch:mailto:snigdhan45@gmail.com
-- 😄 Pronouns:she/her
+- 😄 Pronouns:she/her 
 - ⚡ Fun fact:Wordsmith by day, melody maker by night
 
 <!---
